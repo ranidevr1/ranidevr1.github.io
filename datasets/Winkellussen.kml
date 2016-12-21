@@ -1,0 +1,288 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Schema name="Winkellussen" id="Winkellussen">
+<SimpleField type="int" name="FID"/>
+<SimpleField type="double" name="SHAPE_len"/>
+</Schema>
+<name>Winkellussen</name>
+<visibility>1</visibility>
+<Folder id="kml_ft_Winkellussen">
+<name>Winkellussen</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>0</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>214.50913964</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">0</SimpleData>
+<SimpleData name="SHAPE_len">214.50913964</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72254774804327,51.0558263360999,0 3.72229437425702,51.0556699572371,0 3.72205623503903,51.0553202850206,0 3.72177051497862,51.0540084025809,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>1</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>249.510125359</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">1</SimpleData>
+<SimpleData name="SHAPE_len">249.510125359</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72488849419298,51.0538212813855,0 3.72399011353798,51.0541254973102,0 3.72368390136142,51.0542771169121,0 3.72350990338413,51.0545152680701,0 3.72330852166878,51.0546755613258,0 3.72295622398691,51.0547752510765,0 3.72257571951962,51.0548568534332,0 3.72197866819098,51.0549641424345,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>2</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>718.779480537</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">2</SimpleData>
+<SimpleData name="SHAPE_len">718.779480537</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72254774804327,51.0558263360999,0 3.72323292908923,51.0563823287822,0 3.72344251762596,51.0565523957573,0 3.72387566691642,51.0569455283357,0 3.72420472834292,51.0572441813971,0 3.72484503543567,51.0570334350549,0 3.72512253510945,51.0572456607828,0 3.72538937441039,51.0574497310489,0 3.7256040171398,51.0574198563785,0 3.72590940058958,51.0572840367696,0 3.72622426692252,51.0571482689326,0 3.72658985627724,51.0570005096926,0 3.72636179922395,51.0568023184028,0 3.72595800035908,51.0565072166542,0 3.72586494044581,51.0564420775117,0 3.726063056554,51.056343086064,0 3.72531279239775,51.0558342093035,0 3.72571358013632,51.0556570673954,0 3.72559225858526,51.0555129443226,0 3.72549154790711,51.0552493807473,0 3.7252144503761,51.0547833161618,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>3</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>259.806639122</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">3</SimpleData>
+<SimpleData name="SHAPE_len">259.806639122</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72254774804327,51.0558263360999,0 3.72328157873804,51.0554548439952,0 3.72396867531311,51.0551647548768,0 3.72484369184015,51.0548756879203,0 3.7252144503761,51.0547833161618,0 3.72572652195363,51.0546557333529,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>4</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>418.006679315</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">4</SimpleData>
+<SimpleData name="SHAPE_len">418.006679315</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72177051497862,51.0540084025809,0 3.72214698946978,51.05382767126,0 3.72224969111485,51.053438755874,0 3.72195868482287,51.0522340735907,0 3.72159785689988,51.0518302101609,0 3.7213720363601,51.0513486264768,0 3.72129124158785,51.0504694342622,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>5</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>350.775395762</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">5</SimpleData>
+<SimpleData name="SHAPE_len">350.775395762</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72129124158785,51.0504694342622,0 3.72282966815131,51.0503348333507,0 3.72381197978321,51.050314813252,0 3.72485956974736,51.0503908179723,0 3.72532569293415,51.0503773810148,0 3.72623947472774,51.0505300410069,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>6</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>217.967158405</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">6</SimpleData>
+<SimpleData name="SHAPE_len">217.967158405</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72195868482287,51.0522340735907,0 3.72506685127278,51.0522021194712,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>7</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>364.581408176</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">7</SimpleData>
+<SimpleData name="SHAPE_len">364.581408176</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72452924131344,51.0535784347834,0 3.72450272098391,51.0533726961841,0 3.72474114145199,51.0526373001834,0 3.7250866091631,51.0521757206248,0 3.72537418352034,51.051791485274,0 3.72572250465658,51.0510682090087,0 3.72623947472774,51.0505300410069,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>8</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>300.597649622</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">8</SimpleData>
+<SimpleData name="SHAPE_len">300.597649622</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72623947472774,51.0505300410069,0 3.72654216406384,51.0505307486261,0 3.72818774905358,51.0505113861414,0 3.7285050297698,51.0504661455552,0 3.72938191820141,51.0502253474367,0 3.72988861952574,51.0500862004888,0 3.7303735632006,51.0500001258587,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>9</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>789.981456966</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">9</SimpleData>
+<SimpleData name="SHAPE_len">789.981456966</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.7303735632006,51.0500001258587,0 3.73096230224005,51.0491600279285,0 3.73130643393522,51.0486689541629,0 3.73139255148901,51.0484410217324,0 3.73016287175936,51.04794617882,0 3.72937460646774,51.0480708793808,0 3.72888143885693,51.0480119547655,0 3.7279777518868,51.0479677365514,0 3.72733929733734,51.0479364912569,0 3.7269527656605,51.049055319123,0 3.72673377838733,51.0494090627486,0 3.72623947472774,51.0505300410069,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>10</td> </tr><tr bgcolor=""> <th>SHAPE_len</th> <td>147.2777207</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4c00a3</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Winkellussen">
+<SimpleData name="FID">10</SimpleData>
+<SimpleData name="SHAPE_len">147.2777207</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<coordinates>
+3.72572652195363,51.0546557333529,0 3.72530827678149,51.0541931727145,0 3.72510332220154,51.0539664981725,0 3.72452924131344,51.0535784347834,0
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document>
+</kml>

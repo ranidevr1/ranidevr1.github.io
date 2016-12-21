@@ -1,0 +1,398 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Schema name="Bibliotheken" id="Bibliotheken">
+<SimpleField type="int" name="FID"/>
+<SimpleField type="string" name="AFDELING"/>
+<SimpleField type="string" name="CODE_FILIA"/>
+</Schema>
+<name>Bibliotheken</name>
+<visibility>1</visibility>
+<Folder id="kml_ft_Bibliotheken">
+<name>Bibliotheken</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>0</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Hoofdbibliotheek</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>HB</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">0</SimpleData>
+<SimpleData name="AFDELING">Hoofdbibliotheek</SimpleData>
+<SimpleData name="CODE_FILIA">HB</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.7313184042425,51.0474509464541,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>1</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Ledeberg</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F1</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">1</SimpleData>
+<SimpleData name="AFDELING">Filiaal Ledeberg</SimpleData>
+<SimpleData name="CODE_FILIA">F1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.74448194991992,51.0383459053942,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>2</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Gentbrugge</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F2</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">2</SimpleData>
+<SimpleData name="AFDELING">Filiaal Gentbrugge</SimpleData>
+<SimpleData name="CODE_FILIA">F2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.75689760778508,51.0440848415418,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>3</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Mariakerke</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F3</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">3</SimpleData>
+<SimpleData name="AFDELING">Filiaal Mariakerke</SimpleData>
+<SimpleData name="CODE_FILIA">F3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.67548945306224,51.0771951612935,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>4</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Drongen</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F10</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">4</SimpleData>
+<SimpleData name="AFDELING">Filiaal Drongen</SimpleData>
+<SimpleData name="CODE_FILIA">F10</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.65755530301439,51.0500465643311,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>5</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Sint-Denijs-Westrem</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F4</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">5</SimpleData>
+<SimpleData name="AFDELING">Filiaal Sint-Denijs-Westrem</SimpleData>
+<SimpleData name="CODE_FILIA">F4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.66811782917606,51.0199946970245,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>6</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Sint-Amandsberg</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F13</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">6</SimpleData>
+<SimpleData name="AFDELING">Filiaal Sint-Amandsberg</SimpleData>
+<SimpleData name="CODE_FILIA">F13</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.74539266327266,51.0616863635243,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>7</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Westveld - Oude Bareel</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F14</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">7</SimpleData>
+<SimpleData name="AFDELING">Filiaal Westveld - Oude Bareel</SimpleData>
+<SimpleData name="CODE_FILIA">F14</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.77442177130412,51.0669222403192,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>8</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Drongen - Baarle</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F7</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">8</SimpleData>
+<SimpleData name="AFDELING">Filiaal Drongen - Baarle</SimpleData>
+<SimpleData name="CODE_FILIA">F7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.61800375830468,51.0385465955872,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>9</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Watersportbaan</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F6</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">9</SimpleData>
+<SimpleData name="AFDELING">Filiaal Watersportbaan</SimpleData>
+<SimpleData name="CODE_FILIA">F6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.70640722553168,51.0442248121214,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>10</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Van Beverenplein</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F8</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">10</SimpleData>
+<SimpleData name="AFDELING">Filiaal Van Beverenplein</SimpleData>
+<SimpleData name="CODE_FILIA">F8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.70556830170995,51.0713410687296,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>11</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Zwijnaarde</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F5</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">11</SimpleData>
+<SimpleData name="AFDELING">Filiaal Zwijnaarde</SimpleData>
+<SimpleData name="CODE_FILIA">F5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.71282356645089,51.002096004426,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>12</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Oostakker</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F12</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">12</SimpleData>
+<SimpleData name="AFDELING">Filiaal Oostakker</SimpleData>
+<SimpleData name="CODE_FILIA">F12</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.76461085000281,51.0997224260346,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>13</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Wondelgem</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F15</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">13</SimpleData>
+<SimpleData name="AFDELING">Filiaal Wondelgem</SimpleData>
+<SimpleData name="CODE_FILIA">F15</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.7171395700727,51.090259219284,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>14</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Brugse Poort</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F11</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">14</SimpleData>
+<SimpleData name="AFDELING">Filiaal Brugse Poort</SimpleData>
+<SimpleData name="CODE_FILIA">F11</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.69722133958973,51.0625717048789,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<Snippet></Snippet>
+<description>
+<![CDATA[
+<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3"> <th>FID</th> <td>15</td> </tr><tr bgcolor=""> <th>AFDELING</th> <td>Filiaal Nieuw Gent</td> </tr><tr bgcolor="#E3E3F3"> <th>CODE_FILIA</th> <td>F9</td> </tr></table></center>
+]]>
+</description>
+<Style>
+<LineStyle>
+<color>ff4800a6</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Bibliotheken">
+<SimpleData name="FID">15</SimpleData>
+<SimpleData name="AFDELING">Filiaal Nieuw Gent</SimpleData>
+<SimpleData name="CODE_FILIA">F9</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.71887253166842,51.0222263568817,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
