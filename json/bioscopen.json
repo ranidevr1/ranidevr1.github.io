@@ -1,0 +1,79 @@
+[
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "location": {
+                        "lat" : 51.048764061465,
+                        "lng" : 3.73378182420731
+                    }
+                },
+                "properties": {
+                    "name": "kml_1",
+                    "description": "\n\n<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>FID</th> <td>0</td> </tr><tr bgcolor=\"\"> <th>ET_ID</th> <td> </td> </tr><tr bgcolor=\"#E3E3F3\"> <th>Naam</th> <td>Studio Skoop</td> </tr><tr bgcolor=\"\"> <th>Ligging</th> <td>Sint-Annaplein 63</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>OBJECTID</th> <td>1</td> </tr><tr bgcolor=\"\"> <th>area</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>len</th> <td>0</td> </tr></table></center>\n\n",
+                    "stroke": "#0019b0",
+                    "stroke-opacity": 1,
+                    "FID": "0",
+                    "ET_ID": "",
+                    "Naam": "Studio Skoop",
+                    "Ligging": "Sint-Annaplein 63",
+                    "OBJECTID": "1",
+                    "area": "0",
+                    "len": "0"
+                },
+                "id": "kml_1"
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "location": {
+                        "lat" : 51.0406312113971,
+                        "lng" : 3.73012094532817
+                    }
+                },
+                "properties": {
+                    "name": "kml_2",
+                    "description": "\n\n<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>FID</th> <td>1</td> </tr><tr bgcolor=\"\"> <th>ET_ID</th> <td> </td> </tr><tr bgcolor=\"#E3E3F3\"> <th>Naam</th> <td>Kinepolis Gent</td> </tr><tr bgcolor=\"\"> <th>Ligging</th> <td>Ter Platen 12</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>OBJECTID</th> <td>2</td> </tr><tr bgcolor=\"\"> <th>area</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>len</th> <td>0</td> </tr></table></center>\n\n",
+                    "stroke": "#0019b0",
+                    "stroke-opacity": 1,
+                    "FID": "1",
+                    "ET_ID": "",
+                    "Naam": "Kinepolis Gent",
+                    "Ligging": "Ter Platen 12",
+                    "OBJECTID": "2",
+                    "area": "0",
+                    "len": "0"
+                },
+                "id": "kml_2"
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "location": {
+                        "lat" : 51.0537441929019,
+                        "lng" : 3.72131952281068
+                    }
+                },
+                "properties": {
+                    "name": "kml_3",
+                    "description": "\n\n<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>FID</th> <td>2</td> </tr><tr bgcolor=\"\"> <th>ET_ID</th> <td> </td> </tr><tr bgcolor=\"#E3E3F3\"> <th>Naam</th> <td>Sphinx</td> </tr><tr bgcolor=\"\"> <th>Ligging</th> <td>Sint-Michielshelling 3</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>OBJECTID</th> <td>3</td> </tr><tr bgcolor=\"\"> <th>area</th> <td>0</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>len</th> <td>0</td> </tr></table></center>\n\n",
+                    "stroke": "#0019b0",
+                    "stroke-opacity": 1,
+                    "FID": "2",
+                    "ET_ID": "",
+                    "Naam": "Sphinx",
+                    "Ligging": "Sint-Michielshelling 3",
+                    "OBJECTID": "3",
+                    "area": "0",
+                    "len": "0"
+                },
+                "id": "kml_3"
+            }
+        ]
+    }
+]
