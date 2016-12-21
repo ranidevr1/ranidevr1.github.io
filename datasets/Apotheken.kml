@@ -13,16 +13,16 @@
 <SimpleField type="string" name="FICHE"/>
 <SimpleField type="int" name="DRUPAL_ID"/>
 <SimpleField type="string" name="GlobalID"/>
-<Style id="icon">
-        <IconStyle>
-            <Icon>
-                <href>https://ranidevr1.github.io/images/pinpoint_apotheek.png</href>
-            </Icon>
-        </IconStyle>
-    </Style>
 </Schema>
 <Folder>
 <name>Apotheken</name>
+<Style id="icon">
+    <IconStyle>
+        <Icon>
+            <href>https://ranidevr1.github.io/images/pinpoint_apotheek.png</href>
+        </Icon>
+    </IconStyle>
+</Style>
 <Placemark id="Apotheken.1">
 <ExtendedData>
 <SchemaData schemaUrl="#Apotheken_1">
