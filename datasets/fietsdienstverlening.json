@@ -1,0 +1,52 @@
+[
+  {
+    "FID": "0",
+    "ID": "3",
+    "Label": "C",
+    "Type": "Fietspunt Sint Pieters - MaxMobiel",
+    "Adres": "Voskenslaan 27, 9000 Gent",
+    "Link": "www.max-mobiel.be",
+    "lat": "51.0345561393443",
+    "lng": "3.70828000890065"
+  },
+  {
+    "FID": "1",
+    "ID": "2",
+    "Label": "B",
+    "Type": "StudentEnMobiliteit",
+    "Adres": "Kattenberg 2, 9000 Gent",
+    "Link": "www.studentenmobiliteit.be",
+    "lat": "51.0426479760435",
+    "lng": "3.72341655335761"
+  },
+  {
+    "FID": "2",
+    "ID": "1",
+    "Label": "A",
+    "Type": "FietsenDepot",
+    "Adres": "Academiestraat 6, 9000 Gent",
+    "Link": "",
+    "lat": "51.059460736383",
+    "lng": "3.71949772376478"
+  },
+  {
+    "FID": "3",
+    "ID": "4",
+    "Label": "D",
+    "Type": "Fietspunt Dampoort - MaxMobiel",
+    "Adres": "thv Dampoortstation",
+    "Link": "www.max-mobiel.be",
+    "lat": "51.0566724784008",
+    "lng": "3.74017843170377"
+  },
+  {
+    "FID": "4",
+    "ID": "5",
+    "Label": "E",
+    "Type": "Fietspunt Stadshal - MaxMobiel",
+    "Adres": "Emiel Braunplein",
+    "Link": "www.max-mobiel.be",
+    "lat": "51.054030204599",
+    "lng": "3.72405833318431"
+  }
+]

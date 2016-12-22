@@ -1,0 +1,114 @@
+[
+  {
+    "FID": "0",
+    "ADELING": "Hoofdbibliotheek",
+    "CODE_FILIA": "HB",
+    "lat": "51.0474509464541",
+    "lng": "3.7313184042425"
+  },
+  {
+    "FID": "1",
+    "ADELING": "Filiaal Ledeberg",
+    "CODE_FILIA": "F1",
+    "lat": "51.0383459053942",
+    "lng": "3.74448194991992"
+  },
+  {
+    "FID": "2",
+    "ADELING": "Filiaal Gentbrugge",
+    "CODE_FILIA": "F2",
+    "lat": "51.0440848415418",
+    "lng": "3.75689760778508"
+  },
+  {
+    "FID": "3",
+    "ADELING": "Filiaal Mariakerke",
+    "CODE_FILIA": "F3",
+    "lat": "51.0771951612935",
+    "lng": "3.67548945306224"
+  },
+  {
+    "FID": "4",
+    "ADELING": "Filiaal Drongen",
+    "CODE_FILIA": "F10",
+    "lat": "51.0500465643311",
+    "lng": "3.65755530301439"
+  },
+  {
+    "FID": "5",
+    "ADELING": "Filiaal Sint-Denijs-Westrem",
+    "CODE_FILIA": "F4",
+    "lat": "51.0199946970245",
+    "lng": "3.66811782917606"
+  },
+  {
+    "FID": "6",
+    "ADELING": "Filiaal Sint-Amandsberg",
+    "CODE_FILIA": "F13",
+    "lat": "51.0616863635243",
+    "lng": "3.74539266327266"
+  },
+  {
+    "FID": "7",
+    "ADELING": "Filiaal Westveld - Oude Bareel",
+    "CODE_FILIA": "F14",
+    "lat": "51.0669222403192",
+    "lng": "3.77442177130412"
+  },
+  {
+    "FID": "8",
+    "ADELING": "Filiaal Drongen - Baarle",
+    "CODE_FILIA": "F7",
+    "lat": "51.0385465955872",
+    "lng": "3.61800375830468"
+  },
+  {
+    "FID": "9",
+    "ADELING": "Filiaal Watersportbaan",
+    "CODE_FILIA": "F6",
+    "lat": "51.0442248121214",
+    "lng": "3.70640722553168"
+  },
+  {
+    "FID": "10",
+    "ADELING": "Filiaal Van Beverenplein",
+    "CODE_FILIA": "F8",
+    "lat": "51.0713410687296",
+    "lng": "3.70556830170995"
+  },
+  {
+    "FID": "11",
+    "ADELING": "Filiaal Zwijnaarde",
+    "CODE_FILIA": "F5",
+    "lat": "51.002096004426",
+    "lng": "3.71282356645089"
+  },
+  {
+    "FID": "12",
+    "ADELING": "Filiaal Oostakker",
+    "CODE_FILIA": "F12",
+    "lat": "51.0997224260346",
+    "lng": "3.76461085000281"
+  },
+  {
+    "FID": "13",
+    "ADELING": "Filiaal Wondelgem",
+    "CODE_FILIA": "F15",
+    "lat": "51.090259219284",
+    "lng": "3.7171395700727"
+  },
+  {
+    "FID": "14",
+    "ADELING": "Filiaal Brugse Poort",
+    "CODE_FILIA": "F11",
+    "lat": "51.0625717048789",
+    "lng": "3.69722133958973"
+  },
+  {
+    "FID": "15",
+    "ADELING": "Filiaal Nieuw Gent",
+    "CODE_FILIA": "F9",
+    "lat": "51.0222263568817",
+    "lng": "3.71887253166842"
+  }
+]
