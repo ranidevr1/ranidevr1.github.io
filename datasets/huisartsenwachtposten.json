@@ -1,0 +1,35 @@
+[
+  {
+    "FID": "0",
+    "NAAM": "Gentbrugge (campus St-Jozef)",
+    "HUISNR": "27",
+    "STRAAT": "Kliniekstraat",
+    "GEMEENTE": "Gent",
+    "POSTCODE": "9000",
+    "TELEFOON": "09 236 50 00",
+    "lat": "51.0425090026404",
+    "lng": "3.75709800449945"
+  },
+  {
+    "FID": "1",
+    "NAAM": "Martelaarslaan",
+    "HUISNR": "305",
+    "STRAAT": "Martelaarslaan",
+    "GEMEENTE": "Gent",
+    "POSTCODE": "9000",
+    "TELEFOON": "09 236 50 00",
+    "lat": "51.0469510024267",
+    "lng": "3.70954300511544"
+  },
+  {
+    "FID": "2",
+    "NAAM": "Baudelo",
+    "HUISNR": "7",
+    "STRAAT": "Baudelokaai",
+    "GEMEENTE": "Gent",
+    "POSTCODE": "9000",
+    "TELEFOON": "09 236 50 00",
+    "lat": "51.0577290022746",
+    "lng": "3.73151400550183"
+  }
+]
