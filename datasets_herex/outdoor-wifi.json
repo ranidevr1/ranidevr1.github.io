@@ -1,0 +1,520 @@
+[
+  {
+    "NAAM": "Kursaal Oostende",
+    "STRAAT": "Kursaal-Westhelling",
+    "HUISNR": "12",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 29 50 50",
+    "EMAIL": "communicatie@kursaaloostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "/",
+      "Di":  "/",
+      "Woe": "/",
+      "Do":  "/",
+      "Vr":  "/",
+      "Za":  "/",
+      "Zo":  "/"
+    },
+    "lat": "51.2313595",
+    "lng": "2.91139629999998"
+  },
+  {
+    "NAAM": "Mercator Jachthaven",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "111",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "0494 51 43 35",
+    "EMAIL": "zeilschip.mercator@telenet.be",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 17u00",
+      "Di":  "10u00 - 17u00",
+      "Woe": "10u00 - 17u00",
+      "Do":  "10u00 - 17u00",
+      "Vr":  "10u00 - 17u00",
+      "Za":  "10u00 - 17u00",
+      "Zo":  "10u00 - 17u00"
+    },
+    "lat": "51.2279351",
+    "lng": "2.92128550000007"
+  },
+  {
+    "NAAM": "Neuhaus",
+    "STRAAT": "Wapenplein",
+    "HUISNR": "4",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 70 78 58",
+    "EMAIL" : "/",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 18u00",
+      "Di":  "10u00 - 18u00",
+      "Woe": "10u00 - 18u00",
+      "Do":  "10u00 - 18u00",
+      "Vr":  "10u00 - 18u00",
+      "Za":  "10u00 - 18u00",
+      "Zo":  "10u00 - 18u00"
+    },
+    "lat": "51.2322714",
+    "lng": "2.91751969999996"
+  },
+  {
+    "NAAM": "Pizza Hut",
+    "STRAAT": "Vlaanderenstraat",
+    "HUISNR": "44",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 50 41 23",
+    "EMAIL": "info@pizzabelgium.be",
+    "OPENINGSUREN": {
+      "Ma":  "11u30 - 21u00",
+      "Di":  "11u30 - 21u00",
+      "Woe": "11u30 - 21u00",
+      "Do":  "11u30 - 21u00",
+      "Vr":  "11u30 - 21u30",
+      "Za":  "11u30 - 21u30",
+      "Zo":  "11u30 - 21u00"
+    },
+    "lat": "51.2327245",
+    "lng": "2.91638139999998"
+  },
+  {
+    "NAAM": "Panos",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "11",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 50 10 32",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "07u30 - 18u30",
+      "Di":  "07u30 - 18u30",
+      "Woe": "07u30 - 18u30",
+      "Do":  "07u30 - 18u30",
+      "Vr":  "07u30 - 18u30",
+      "Za":  "07u30 - 18u30",
+      "Zo":  "09u00 - 18u00"
+    },
+    "lat": "51.2313807",
+    "lng": "2.91773539999997"
+  },
+  {
+    "NAAM": "Standaard Boekhandel",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "93",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 80 08 97",
+    "EMAIL": "klantendienst@standaardboekhandel.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 18u00",
+      "Di":  "09u30 - 18u00",
+      "Woe": "09u30 - 18u00",
+      "Do":  "09u30 - 18u00",
+      "Vr":  "09u30 - 18u00",
+      "Za":  "09u30 - 18u00",
+      "Zo":  "10u30 - 12u30 / 13u00 - 18u00"
+    },
+    "lat": "51.2287269",
+    "lng": "2.92035599999997"
+  },
+  {
+    "NAAM": "Base Shop",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "89",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "0483 00 63 03",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 13u00 / 14u00 - 18u00",
+      "Di":  "10u00 - 13u00 / 14u00 - 18u00",
+      "Woe": "10u00 - 13u00 / 14u00 - 18u00",
+      "Do":  "10u00 - 13u00 / 14u00 - 18u00",
+      "Vr":  "10u00 - 13u00 / 14u00 - 18u00",
+      "Za":  "10u00 - 13u00 / 14u00 - 18u00",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2288865",
+    "lng": "2.92018280000002"
+  },
+  {
+    "NAAM": "Unizo",
+    "STRAAT": "Hendrik Serruyslaan",
+    "HUISNR": "42b",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "010 69 01 00",
+    "EMAIL": "westvlaanderen@unizo.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u00 - 12u30 / 13u30 - 16u00",
+      "Di":  "09u00 - 12u30",
+      "Woe": "09u00 - 12u30",
+      "Do":  "09u00 - 12u30",
+      "Vr":  "09u00 - 12u30",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2324345",
+    "lng": "2.91800999999998"
+  },
+  {
+    "NAAM": "Rougegorge Lingerie",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "48",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 51 35 09",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 18u00",
+      "Di":  "10u00 - 18u00",
+      "Woe": "10u00 - 18u00",
+      "Do":  "10u00 - 18u00",
+      "Vr":  "10u00 - 18u00",
+      "Za":  "10u00 - 18u00",
+      "Zo":  "12u00 - 18u00"
+    },
+    "lat": "51.2299295",
+    "lng": "2.9193186"
+  },
+  {
+    "NAAM": "WE Store",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "60",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 50 93 54",
+    "EMAIL": "contact@wefashion.com",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 18u00",
+      "Di":  "10u00 - 18u00",
+      "Woe": "10u00 - 18u00",
+      "Do":  "10u00 - 18u00",
+      "Vr":  "10u00 - 18u00",
+      "Za":  "10u00 - 18u00",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2295236",
+    "lng": "2.91973580000001"
+  },
+  {
+    "NAAM": "TAO Bar",
+    "STRAAT": "Langestraat",
+    "HUISNR": "24",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 43 83 73",
+    "EMAIL": "info@tao-oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "Gesloten",
+      "Di":  "Gesloten",
+      "Woe": "16u00 - 23u00",
+      "Do":  "16u00 - 23u00",
+      "Vr":  "14u00 - 05u00",
+      "Za":  "14u00 - 05u00",
+      "Zo":  "12u00 - 23u00"
+    },
+    "lat": "51.2321822",
+    "lng": "2.91465649999998"
+  },
+  {
+    "NAAM": "Monacoplein",
+    "STRAAT": "Monacoplein",
+    "HUISNR": "11",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "/",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "24 uur geopend",
+      "Di":  "24 uur geopend",
+      "Woe": "24 uur geopend",
+      "Do":  "24 uur geopend",
+      "Vr":  "24 uur geopend",
+      "Za":  "24 uur geopend",
+      "Zo":  "24 uur geopend"
+    },
+    "lat": "51.2313988",
+    "lng": "2.91338199999996"
+  },
+  {
+    "NAAM": "Tudor Rose",
+    "STRAAT": "Jozef II-straat",
+    "HUISNR": "54",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 70 29 29",
+    "EMAIL": "info@koninginnehof.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 18u00",
+      "Di":  "09u30 - 18u00",
+      "Woe": "09u30 - 18u00",
+      "Do":  "09u30 - 18u00",
+      "Vr":  "Gesloten",
+      "Za":  "09u30 - 18u00",
+      "Zo":  "09u30 - 18u00"
+    },
+    "lat": "51.2290683",
+    "lng": "2.92026569999996"
+  },
+  {
+    "NAAM": "Taverne Koekoek",
+    "STRAAT": "Langestraat",
+    "HUISNR": "38",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 70 89 70",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 23u15",
+      "Di":  "10u00 - 23u15",
+      "Woe": "10u00 - 23u15",
+      "Do":  "10u00 - 23u15",
+      "Vr":  "10u00 - 23u15",
+      "Za":  "10u00 - 23u15",
+      "Zo":  "10u00 - 23u15"
+    },
+    "lat": "51.2328696",
+    "lng": "2.91662429999997"
+  },
+  {
+    "NAAM": "Ken Shoe Fashion",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "23",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 70 63 71",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 18u30",
+      "Di":  "09u30 - 18u30",
+      "Woe": "09u30 - 18u30",
+      "Do":  "09u30 - 18u30",
+      "Vr":  "09u30 - 18u30",
+      "Za":  "09u30 - 18u30",
+      "Zo":  "11u30 - 18u00"
+    },
+    "lat": "51.2312674",
+    "lng": "2.9178551"
+  },
+  {
+    "NAAM": "Mobistar Center",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "37",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 18u00",
+      "Di":  "10u00 - 18u00",
+      "Woe": "10u00 - 18u00",
+      "Do":  "10u00 - 18u00",
+      "Vr":  "10u00 - 18u00",
+      "Za":  "10u00 - 18u00",
+      "Zo":  "14u00 - 18u00"
+    },
+    "lat": "51.2312273",
+    "lng": "2.91789749999998"
+  },
+  {
+    "NAAM": "Devernois Kleding",
+    "STRAAT": "Adolf Buylstraat",
+    "HUISNR": "18",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 51 47 78",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 18u00",
+      "Di":  "10u00 - 18u00",
+      "Woe": "10u00 - 18u00",
+      "Do":  "10u00 - 18u00",
+      "Vr":  "10u00 - 18u00",
+      "Za":  "10u00 - 18u00",
+      "Zo":  "10u00 - 18u00"
+    },
+    "lat": "51.2316979",
+    "lng": "2.91641460000005"
+  },
+  {
+    "NAAM": "Marie-Joséplein",
+    "STRAAT": "Marie-Joséplein",
+    "HUISNR": "11",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "/",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "24 uur geopend",
+      "Di":  "24 uur geopend",
+      "Woe": "24 uur geopend",
+      "Do":  "24 uur geopend",
+      "Vr":  "24 uur geopend",
+      "Za":  "24 uur geopend",
+      "Zo":  "24 uur geopend"
+    },
+    "lat": "51.2307975",
+    "lng": "2.91441180000004"
+  },
+  {
+    "NAAM": "Bada-Bing Café",
+    "STRAAT": "Langestraat",
+    "HUISNR": "14",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "0477 52 19 96",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "15u00 - 05u00",
+      "Di":  "Gesloten",
+      "Woe": "15u00 - 05u00",
+      "Do":  "15u00 - 05u00",
+      "Vr":  "15u00 - 05u00",
+      "Za":  "15u00 - 05u00",
+      "Zo":  "15u00 - 05u00"
+    },
+    "lat": "51.2327935",
+    "lng": "2.91644029999998"
+  },
+  {
+    "NAAM": "Independent Opticians",
+    "STRAAT": "Adolf Buylstraat",
+    "HUISNR": "35",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 23 85 63",
+    "EMAIL": "info@io-online.be",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 18u00",
+      "Di":  "10u00 - 18u00",
+      "Woe": "10u00 - 18u00",
+      "Do":  "10u00 - 18u00",
+      "Vr":  "10u00 - 18u00",
+      "Za":  "10u00 - 18u00",
+      "Zo":  "13u30 - 18u00"
+    },
+    "lat": "51.2313311",
+    "lng": "2.91500240000005"
+  },
+  {
+    "NAAM": "Restaurant La Stalla",
+    "STRAAT": "Langestraat",
+    "HUISNR": "47",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 70 70 38",
+    "EMAIL": "info@lastalla.be",
+    "OPENINGSUREN": {
+      "Ma":  "11u30 - 15u00 / 18u00 - 23u00",
+      "Di":  "Gesloten",
+      "Woe": "11u30 - 15u00 / 18u00 - 23u00",
+      "Do":  "11u30 - 15u00 / 18u00 - 23u00",
+      "Vr":  "11u30 - 15u00 / 18u00 - 23u00",
+      "Za":  "11u30 - 15u00 / 18u00 - 23u00",
+      "Zo":  "11u30 - 15u00 / 18u00 - 23u00"
+    },
+    "lat": "51.2328412",
+    "lng": "2.91662389999999"
+  },
+  {
+    "NAAM": "Brasserie Cheers",
+    "STRAAT": "Adolf Buylstraat",
+    "HUISNR": "53",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 51 32 32",
+    "EMAIL": "cheersoostende@telenet.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u00 - 20u00",
+      "Di":  "09u00 - 20u00",
+      "Woe": "09u00 - 20u00",
+      "Do":  "09u00 - 20u00",
+      "Vr":  "09u00 - 20u00",
+      "Za":  "09u00 - 20u00",
+      "Zo":  "09u30 - 20u00"
+    },
+    "lat": "51.2310462",
+    "lng": "2.91420219999998"
+  },
+  {
+    "NAAM": "Terre Bleue",
+    "STRAAT": "Adolf Buylstraat",
+    "HUISNR": "19",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 50 88 85",
+    "EMAIL": "customercare@terrebleue.com",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 18u00",
+      "Di":  "10u00 - 18u00",
+      "Woe": "10u00 - 18u00",
+      "Do":  "10u00 - 18u00",
+      "Vr":  "10u00 - 18u00",
+      "Za":  "10u00 - 18u00",
+      "Zo":  "13u00 - 18u00"
+    },
+    "lat": "51.2315692",
+    "lng": "2.91575739999996"
+  },
+  {
+    "NAAM": "Toerisme Oostende",
+    "STRAAT": "Monacoplein",
+    "HUISNR": "2",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 70 11 99",
+    "EMAIL": "info@visitoostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 18u00",
+      "Di":  "10u00 - 18u00",
+      "Woe": "10u00 - 18u00",
+      "Do":  "10u00 - 18u00",
+      "Vr":  "10u00 - 18u00",
+      "Za":  "10u00 - 18u00",
+      "Zo":  "10u00 - 18u00"
+    },
+    "lat": "51.2313937",
+    "lng": "2.91338229999997"
+  },
+  {
+    "NAAM": "Café Art Deco",
+    "STRAAT": "Vlaanderenstraat",
+    "HUISNR": "46",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "0475 61 71 96",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "09u00 - tot sluiting",
+      "Di":  "09u00 - tot sluiting",
+      "Woe": "Gesloten",
+      "Do":  "09u00 - tot sluiting",
+      "Vr":  "09u00 - tot sluiting",
+      "Za":  "09u00 - tot sluiting",
+      "Zo":  "09u00 - tot sluiting"
+    },
+    "lat": "51.2327644",
+    "lng": "2.91634150000004"
+  },
+  {
+    "NAAM": "Tearoom Coffee Dream",
+    "STRAAT": "Kapellestraat",
+    "HUISNR": "107",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "0495 38 10 44",
+    "EMAIL": "/",
+    "OPENINGSUREN": {
+      "Ma":  "08u30 - 18u30",
+      "Di":  "08u30 - 18u30",
+      "Woe": "08u30 - 18u30",
+      "Do":  "08u30 - 18u30",
+      "Vr":  "08u30 - 18u30",
+      "Za":  "08u30 - 18u30",
+      "Zo":  "08u30 - 18u30"
+    },
+    "lat": "51.2279351",
+    "lng": "2.92128550000007"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "NAAM": "Sociaal Huis Oostende - Wachtzaal",
+    "STRAAT": "Edith Cavellestraat",
+    "HUISNR": "15",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 59 10 10",
+    "EMAIL": "onthaal@sho.be",
+    "OPENINGSUREN": {
+      "Ma":  "08u30 - 12u00 / 13u00 - 16u30",
+      "Di":  "08u30 - 12u00 / 13u00 - 16u30",
+      "Woe": "08u30 - 12u00 / 13u00 - 16u30",
+      "Do":  "08u30 - 12u00 / 13u00 - 19u00",
+      "Vr":  "08u30 - 12u00 / 13u00 - 16u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2230933",
+    "lng": "2.91533000000004"
+  },
+  {
+    "NAAM": "Sociaal Huis Oostende - Buurtwerking",
+    "STRAAT": "Duivenhokstraat",
+    "HUISNR": "84",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 59 10 10",
+    "EMAIL": "onthaal@sho.be",
+    "OPENINGSUREN": {
+      "Ma":  "08u30 - 12u00 / 13u00 - 16u30",
+      "Di":  "08u30 - 12u00 / 13u00 - 16u30",
+      "Woe": "08u30 - 12u00 / 13u00 - 16u30",
+      "Do":  "08u30 - 12u00 / 13u00 - 19u00",
+      "Vr":  "08u30 - 12u00 / 13u00 - 16u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2190025",
+    "lng": "2.90366440000003"
+  },
+  {
+    "NAAM": "De Kust - Dagcentrum",
+    "STRAAT": "Pater Pirelaan",
+    "HUISNR": "6",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "0497 97 23 12",
+    "EMAIL": "dagcentrumdekust@sho.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u00 - 17u00",
+      "Di":  "09u00 - 17u00",
+      "Woe": "09u00 - 17u00",
+      "Do":  "09u00 - 17u00",
+      "Vr":  "09u00 - 17u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2108756",
+    "lng": "2.92703119999999"
+  },
+  {
+    "NAAM": "A. Lacourt - Woonzorgcentrum",
+    "STRAAT": "Rode Kruisstraat",
+    "HUISNR": "10",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 40 24 00",
+    "EMAIL": "socialedienst.wzc@sho.be",
+    "OPENINGSUREN": {
+      "Ma":  "08u00 - 20u00",
+      "Di":  "08u00 - 20u00",
+      "Woe": "08u00 - 20u00",
+      "Do":  "08u00 - 20u00",
+      "Vr":  "08u00 - 20u00",
+      "Za":  "08u00 - 20u00",
+      "Zo":  "08u00 - 20u00"
+    },
+    "lat": "51.2154873",
+    "lng": "2.89707490000001"
+  },
+  {
+    "NAAM": "De Boarebreker - Woonzorgcentrum",
+    "STRAAT": "Kaïrostraat",
+    "HUISNR": "82",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 55 56 15",
+    "EMAIL": "socialedienst.wzc@sho.be",
+    "OPENINGSUREN": {
+      "Ma":  "08u30 - 11u30",
+      "Di":  "Gesloten",
+      "Woe": "Gesloten",
+      "Do":  "Gesloten",
+      "Vr":  "08u30 - 11u30",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2239974",
+    "lng": "2.91464870000004"
+  },
+  {
+    "NAAM": "Stadhuis Oostende - Loketten en vergaderzalen",
+    "STRAAT": "Vindictivelaan",
+    "HUISNR": "1",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 80 55 00",
+    "EMAIL": "stadsbestuur@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "08u00 - 17u00",
+      "Di":  "08u00 - 17u00",
+      "Woe": "08u00 - 17u00",
+      "Do":  "08u00 - 20u00",
+      "Vr":  "08u00 - 12u30",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2267487236903",
+    "lng": "2.91723437619635"
+  },
+  {
+    "NAAM": "De Grote Post - Cultuurcentrum",
+    "STRAAT": "Hendrik Serruyslaan",
+    "HUISNR": "18A",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 56 85 00",
+    "EMAIL": "benieuwd@degrotepost.be",
+    "OPENINGSUREN": {
+      "Ma":  "10u00 - 17u00",
+      "Di":  "10u00 - 17u00",
+      "Woe": "10u00 - 17u00",
+      "Do":  "10u00 - 17u00",
+      "Vr":  "10u00 - 17u00",
+      "Za":  "14u00 - 17u00",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.229871",
+    "lng": "2.91565590000005"
+  },
+  {
+    "NAAM": "Venetiaanse Gaanderijen",
+    "STRAAT": "Albert I-Promenade",
+    "HUISNR": "75",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 56 20 15",
+    "EMAIL": "cultuur@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "24 uur geopend",
+      "Di":  "24 uur geopend",
+      "Woe": "24 uur geopend",
+      "Do":  "24 uur geopend",
+      "Vr":  "24 uur geopend",
+      "Za":  "24 uur geopend",
+      "Zo":  "24 uur geopend"
+    },
+    "lat": "51.2287231",
+    "lng": "2.9071821"
+  },
+  {
+    "NAAM": "De 3 Gapers - Ontmoetingscentrum",
+    "STRAAT": "Timmermanstraat",
+    "HUISNR": "1",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 51 27 76",
+    "EMAIL": "de3gapers@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "13u00 - 16u30",
+      "Di":  "13u00 - 16u30",
+      "Woe": "13u00 - 16u30",
+      "Do":  "13u00 - 16u30",
+      "Vr":  "13u00 - 16u30",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2187915",
+    "lng": "2.9026169"
+  },
+  {
+    "NAAM": "\u0027t Viooltje - Ontmoetingscentrum",
+    "STRAAT": "Violierenlaan",
+    "HUISNR": "3B",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 44 91 03",
+    "EMAIL": "viooltje@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 17u00",
+      "Di":  "09u30 - 17u00",
+      "Woe": "09u30 - 17u00",
+      "Do":  "09u30 - 17u00",
+      "Vr":  "09u30 - 17u00",
+      "Za":  "09u30 - 17u00",
+      "Zo":  "09u30 - 17u00"
+    },
+    "lat": "51.2126043",
+    "lng": "2.88034560000006"
+  },
+  {
+    "NAAM": "De Schaperye - Ontmoetingscentrum",
+    "STRAAT": "Steenovenstraat",
+    "HUISNR": "86",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 43 38 47",
+    "EMAIL": "schaperye@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 17u00",
+      "Di":  "09u30 - 17u00",
+      "Woe": "09u30 - 17u00",
+      "Do":  "09u30 - 17u00",
+      "Vr":  "09u30 - 17u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2146388",
+    "lng": "2.93534160000002"
+  },
+  {
+    "NAAM": "De Boeie - Ontmoetingscentrum",
+    "STRAAT": "Kerkstraat",
+    "HUISNR": "35",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 43 50 10",
+    "EMAIL": "deboeie@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 17u00",
+      "Di":  "09u30 - 17u00",
+      "Woe": "09u30 - 17u00",
+      "Do":  "09u30 - 17u00",
+      "Vr":  "09u30 - 17u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2304887",
+    "lng": "2.91978560000007"
+  },
+  {
+    "NAAM": "Ter Yde - Ontmoetingscentrum",
+    "STRAAT": "Duinenstraat",
+    "HUISNR": "172",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 43 88 06",
+    "EMAIL": "teryde@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 17u00",
+      "Di":  "09u30 - 17u00",
+      "Woe": "09u30 - 17u00",
+      "Do":  "09u30 - 17u00",
+      "Vr":  "09u30 - 17u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2076861",
+    "lng": "2.86296089999996"
+  },
+  {
+    "NAAM": "\u0027t Kasteeltje",
+    "STRAAT": "Kasteelstraat",
+    "HUISNR": "22B",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 43 45 94",
+    "EMAIL": "kasteeltje@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 17u00",
+      "Di":  "09u30 - 17u00",
+      "Woe": "09u30 - 17u00",
+      "Do":  "09u30 - 17u00",
+      "Vr":  "09u30 - 17u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2027705",
+    "lng": "2.97578099999998"
+  },
+  {
+    "NAAM": "De Blomme - Ontmoetingscentrum",
+    "STRAAT": "Chrysantenstraat",
+    "HUISNR": "30",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 43 52 34",
+    "EMAIL": "deblomme@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u30 - 17u00",
+      "Di":  "09u30 - 17u00",
+      "Woe": "09u30 - 17u00",
+      "Do":  "09u30 - 17u00",
+      "Vr":  "09u30 - 17u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2113859",
+    "lng": "2.91526899999997"
+  },
+  {
+    "NAAM": "Duin & Zee - Jeugdverblijfcentrum",
+    "STRAAT": "Fortstraat",
+    "HUISNR": "128",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 23 75 30",
+    "EMAIL": "duinenzee@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u00 - 12u00",
+      "Di":  "09u00 - 12u00",
+      "Woe": "09u00 - 12u00",
+      "Do":  "09u00 - 12u00",
+      "Vr":  "09u00 - 12u00",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2377795",
+    "lng": "2.93873640000004"
+  },
+  {
+    "NAAM": "Elysée - Fuifzaal",
+    "STRAAT": "Christinastraat",
+    "HUISNR": "18G",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 51 01 76",
+    "EMAIL": "jeugd@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "/",
+      "Di":  "/",
+      "Woe": "/",
+      "Do":  "/",
+      "Vr":  "/",
+      "Za":  "/",
+      "Zo":  "/"
+    },
+    "lat": "51.2325943",
+    "lng": "2.91540759999998"
+  },
+  {
+    "NAAM": "Oud Hospitaal - Ontmoetingscentrum",
+    "STRAAT": "Amsterdamstraat",
+    "HUISNR": "61",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 43 31 22",
+    "EMAIL": "oudhospitaal@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "09u00 - 16u30",
+      "Di":  "09u00 - 16u30",
+      "Woe": "09u00 - 16u30",
+      "Do":  "09u00 - 16u30",
+      "Vr":  "09u00 - 16u30",
+      "Za":  "Gesloten",
+      "Zo":  "Gesloten"
+    },
+    "lat": "51.2243263",
+    "lng": "2.91282860000001"
+  },
+  {
+    "NAAM": "Koninklijke Stallingen",
+    "STRAAT": "Koninginnelaan",
+    "HUISNR": "76",
+    "POSTCODE": "8400",
+    "GEMEENTE": "Oostende",
+    "TELEFOON": "059 56 10 60",
+    "EMAIL": "davy.thielens@oostende.be",
+    "OPENINGSUREN": {
+      "Ma":  "/",
+      "Di":  "/",
+      "Woe": "/",
+      "Do":  "/",
+      "Vr":  "/",
+      "Za":  "/",
+      "Zo":  "/"
+    },
+    "lat": "51.2246031",
+    "lng": "2.90928600000007"
+  }
+]
